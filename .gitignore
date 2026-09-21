@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+~$*.xlsx
+.ipynb_checkpoints/
+
+# Company universes may be licensed data.
+CIK.csv
+data/CIK.csv
+
+# Generated research outputs.
+outputs/*
+!outputs/.gitkeep
